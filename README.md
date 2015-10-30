@@ -1,2 +1,2 @@
 # Halo-Dunia
-pemula
+pemula saja
